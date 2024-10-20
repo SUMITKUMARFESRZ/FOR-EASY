@@ -1,2 +1,3 @@
 # FOR-EASY
-this is my 1st commit 
+index html modified
+
